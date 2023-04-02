@@ -1,6 +1,6 @@
 # ||2D-Dash||
 
-**2D DASH is an Action Game created from Scratch using only Html, Css & JavaScript**
+**2D DASH is an Action Game created from Scratch using only Html & JavaScript**
 
 ## Preview
 [**CLICK HERE TO PLAY & ENJOY THE GAME**](https://prachit082.github.io/3D-Racing-Game/) 
