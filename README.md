@@ -3,7 +3,7 @@
 **2D DASH is an Action Game created from Scratch using only Html & JavaScript**
 
 ## Preview
-[**CLICK HERE TO PLAY & ENJOY THE GAME**](https://prachit082.github.io/2D-Racing-Game/) 
+[**CLICK HERE TO PLAY & ENJOY THE GAME**](https://dash2d.pages.dev/) 
 
 ### **CONTROLS** :
 
